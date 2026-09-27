@@ -1,0 +1,6 @@
+dataset/
+output/
+venv/
+eda_report/
+__pycache__/
+*.pyc
